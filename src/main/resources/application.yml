@@ -1,0 +1,4 @@
+graphql:
+  servlet:
+    asyncModeEnabled: true
+    corsEnabled: false
